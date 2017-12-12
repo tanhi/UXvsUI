@@ -77,6 +77,9 @@ para conseguir éste objetivo.
 **GLOBAL**
 ![Navegación Global](./images/GitHub1.png)
 
+**LOCAL**
+![Navegación Local](./images/GitHub2.png)
+
 **FACETADA**
 ![Navegación Facetada](./images/GitHub3.png)
 
