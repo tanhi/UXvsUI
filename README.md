@@ -52,12 +52,18 @@ Iconos: Facebook
 
 
 ## 2. Identifica los elementos de y navegación de: *Github*
-GLOBAL
+**GLOBAL**
 ![Navegación Global](./images/GitHub1.png)
-LOCAL
+**LOCAL**
+![Navegación Local](./images/GitHub2.png)
 FACETADA
+![Navegación Facetada](./images/GitHub3.png)
 FILTRADA
+![Navegación Filtrada](./images/GitHub4.png)
 CONTEXTUAL
+![Navegación Contextual](./images/GitHub5.png)
 INLINE
+![Navegación Inline](./images/GitHub6.png)
 SUPLEMENTARIA
+![Navegación Suplementaria](./images/GitHub7.png)
 ## 3. Crea un *sketch* para la herramienta del dashboard de Laboratoria.
