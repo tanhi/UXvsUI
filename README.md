@@ -22,50 +22,52 @@ para conseguir éste objetivo.
 - Fondo blanco en todo el documento
 
 - Botones:  
-ESTUDIANTES.  Fondo amarillo y letras negras posicionado en la esquina superios izq. de la pantalla
-              Redirecciona a la convocatoria para postular a Laboratoria.
 
-EMPRESAS. Fondo blanco con letras y borde amarillo
-          Redirecciona a la pagina dónde las empresas se suscriben para contratar talento o incribirse a distintos cursos.
+  ESTUDIANTES.  Fondo amarillo y letras negras posicionado en la esquina superios izq. de la pantalla
+  Redirecciona a la convocatoria para postular a Laboratoria.
 
-Sección postula tiene el texto centrado y nuevamente un boton:
-COMIENZA TU POSTULACIÓN: con fondo amarillo y letras negra el cual redirecciona a la convocatoria de laboratoria  
+  EMPRESAS. Fondo blanco con letras y borde amarillo
+  Redirecciona a la pagina dónde las empresas se suscriben para contratar talento o incribirse a distintos cursos.
 
-Talento tech Conoce Nuestras Egresadas
-CONOCE NUESTRO TALENTO Con fondo amarillo y letras negras.Redirecciona a la página de Talento de Laboratoria     
+  Sección postula tiene el texto centrado y nuevamente un boton:
+  COMIENZA TU POSTULACIÓN: con fondo amarillo y letras negra el cual redirecciona a la convocatoria de laboratoria  
 
-Corporate training
-CONOCE NUESTROS CURSOS  Con fondo amarillo y letras negras. Redirecciona a la pagina dónde las empresas se suscriben para contratar talento o incribirse a distintos cursos.   
+  Talento tech Conoce Nuestras Egresadas
+  CONOCE NUESTRO TALENTO Con fondo amarillo y letras negras.Redirecciona a la página de Talento de Laboratoria     
+
+  Corporate training
+  CONOCE NUESTROS CURSOS  Con fondo amarillo y letras negras. Redirecciona a la pagina dónde las empresas se suscriben para contratar talento o incribirse a distintos cursos.   
 
 - Logo "Laboratoria" centrado entre los botones ESTUDIANTES Y EMPRESAS
 
 - Barra de contacto fija
-  Iconos: Facebook
+  Iconos:
+          Facebook
           Twitter
           E-mail Compartir con un amigo
 
 - Background con imagen completa y texto centrado sobrepuesto.       
- TESTIMONIO  de Sandra Azabache
+  TESTIMONIO  de Sandra Azabache
 
- TESTIMONIO Empresa Crowdbotics
+  TESTIMONIO Empresa Crowdbotics
 
- TESTIMONIO Carla Tomache Gerente comercial Financier Oh!
+  TESTIMONIO Carla Tomache Gerente comercial Financier Oh!
 
- TESTIMONIO Barack Obama conoce laboratoria.
+  TESTIMONIO Barack Obama conoce laboratoria.
 
- - Cifras
+- Cifras
  NUESTRO IMPACTO Datos porcentuales de laboratoria con la misma tipografía de los botones.
 
- - Iconos
- Centrados y en tabla en cada uno de las siguientes secciones:
- ALIADOS REGIONALES
- RECONOCIMIENTOS
- PRESENCIA EN MEDIOS
+- Iconos
+  Centrados y en tabla en cada uno de las siguientes secciones:
+  ALIADOS REGIONALES
+  RECONOCIMIENTOS
+  PRESENCIA EN MEDIOS
 
- - BLOG.
+- BLOG.
   Texto centrado y links que redireccionan a distintos articulos del blog en caja gris
 
- - Footer
+- Footer
  Con misión de Laboratoria background negro y letras blancas
  Enlaces: Contactanos, Trabaja con nosotros y Blog
 
